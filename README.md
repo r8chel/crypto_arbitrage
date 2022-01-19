@@ -10,13 +10,13 @@ The .csv files are located in the Resources folder
 
 ## Technologies
 ![Jupyter Logo](https://docs.jupyter.org/en/latest/_static/jupyter.svg)
-This notebook requires Jupyter lab
-installations:
+<br>This notebook requires Jupyter lab
+<br>Installation:
 ```
 pip install jupyterlab
 ````
 
-This applications uses pandas
+This applications uses pandas<br>
 ![pandas Logo](https://pandas.pydata.org/docs/_static/pandas.svg)
 
 ```
